@@ -1,8 +1,9 @@
 ### About Me
 Hey, I’m Alex Meiko, AKA guwolf on the internet, Or you can just call me Meiko  
 I consider myself a:
-<p><strong>Rotten Man</strong></p>
+<li><strong>Lazy Man</strong><p>When I am faced with something I don't want to do but have to do, I often have no motivation.</p></li>
 
+<!--
 <!--
 **AlexMeiko/AlexMeiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
