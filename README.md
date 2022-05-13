@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Me
+Hey, I’m Alex Meiko, AKA guwolf on the internet, Or you can just call me Meiko
 
 <!--
 **AlexMeiko/AlexMeiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
